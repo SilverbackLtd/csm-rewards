@@ -1,0 +1,13 @@
+# Ape stuff
+.build/
+.cache/
+
+# Silverback stuff
+.silverback-*/
+
+# Python
+.env
+.venv
+.pytest_cache
+.python-version
+__pycache__
